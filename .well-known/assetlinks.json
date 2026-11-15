@@ -1,0 +1,13 @@
+[
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "fr.emploidutemps",
+      "sha256_cert_fingerprints": [
+        "A2:40:17:45:1B:87:1A:8B:84:DD:E1:50:5F:9F:2F:9F:43:8B:12:E0:B1:44:D4:FA:D6:3B:3C:43:2D:A0:10:45",
+        "CF:C9:C4:2A:76:0C:78:EC:FB:95:EA:EA:E3:F3:B0:54:1F:05:A2:99:22:1D:26:25:82:93:7C:97:C4:FB:74:69"
+      ]
+    }
+  }
+]
